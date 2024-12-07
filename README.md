@@ -34,6 +34,13 @@ NOTE: The PATH variable is ignored
     - Example of locations `$HOME/.local/bin/protonhax`, `/usr/bin/protonhax`. They need to be on your $PATH
     - Permission `chmod 755 protonhax`.
 
+### Debian / Ubuntu
+
+- download the protonhax_1.0_all.deb file included in this repository to the /tmp dir
+- run ```sudo apt install /tmp/protonhax_1.0_all.deb```
+- To uninstall: ```sudo apt remove protonhax```
+
+
 ### Arch Linux
 - https://aur.archlinux.org/packages/protonhax
 - https://aur.archlinux.org/packages/protonhax-git/
